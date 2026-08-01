@@ -21,6 +21,24 @@ This project was created to simplify communication between family members and au
 
 ---
 
+## Logo
+
+![Logo](assets/logo.png)
+
+---
+
+## Telegram Bot
+
+![Bot](assets/telegram.png)
+
+---
+
+## Bot Work
+
+![Work](assets/work.png)
+
+---
+
 ## 🛠 Tech Stack
 
 - Python 3.14
@@ -33,7 +51,7 @@ This project was created to simplify communication between family members and au
 ## 📂 Project Structure
 
 ```
-printer_bot/
+printpbpy/
 │
 ├── services/
 │   ├── formatter.py
@@ -60,8 +78,8 @@ printer_bot/
 Clone the repository
 
 ```bash
-git clone https://github.com/your_username/PrintBridge.git
-cd PrintBridge
+git clone https://github.com/itheinkarchitect/PrintoBot.git
+cd printobot
 ```
 
 Create a virtual environment
